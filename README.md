@@ -1,6 +1,6 @@
 # My Landing Page
 
-This is a simple landing page created using HTML and CSS. It serves as a basic template for showcasing a product or service.
+This is a simple landing page created using HTML and CSS.
 
 ## Features
 
