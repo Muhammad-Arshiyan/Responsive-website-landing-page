@@ -2,7 +2,7 @@
 
 🚀 This is a simple landing page created using HTML and CSS. 🚀
 
-https://github.com/Muhammad-Arshiyan/Responsive-website-landing-page/blob/585235af1c4fcad42b871aaece385bba66355cdb/Website-landing-image.jpg
+![Image](https://github.com/user-attachments/assets/9c9b0dfd-9f68-44e3-8f41-ed66092abeee)
 
 ## Features
 
