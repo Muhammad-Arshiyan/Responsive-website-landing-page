@@ -14,6 +14,6 @@
 
 ## Technologies Used
 
-- HTML5
--CSS3 🎨 (Flexbox & Media Queries)
+HTML5
+CSS3 🎨 (Flexbox & Media Queries)
 
